@@ -14,7 +14,8 @@ pnpm dev
 bun dev
 ```
 
-project page URL http://localhost:3000
+## Project Page
+You can view the project page [here](http://localhost:3000).
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
